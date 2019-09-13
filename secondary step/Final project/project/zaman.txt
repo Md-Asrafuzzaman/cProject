@@ -1,0 +1,161 @@
+
+
+Passenger Details
+Name : Md.Zaman
+Gender : Male
+Phone : 01786969368
+
+Journey Details :
+dhaka to rangpur
+Nabil Poribohon 
+Bus srart 11:00PM
+Bording point Gabtoli bus stand
+13-12-16
+sit no : D1 D2
+:
+Payment Details :
+Total paid 1100
+
+Passenger Details
+Name : md. Mithun
+Gender : Male
+Phone : 01786967173
+
+Journey Details :
+dhaka to rangpur
+Nabil Poribohon
+Bus srart 11:30PM
+Bording point Gabtoli bus stand
+7-1-17
+sit no : D1 D2 D3
+:
+Payment Details :
+Total paid 3150
+
+Passenger Details
+Name : ASRAF
+Gender : male
+Phone : 023884
+
+Journey Details :
+dhaka to lalmoni
+Hanif Enterprise 
+Bus srart 10:00PM
+Bording point Gabtoli bus stand
+12-19-10
+sit no : D1 D2
+:
+Payment Details :
+Total paid 2100
+
+Passenger Details
+Name : abc
+Gender : male
+Phone : 0298
+
+Journey Details :
+dhaka to rangpur
+Hanif Enterprise 
+Bus srart 10:00PM
+Bording point Gabtoli bus stand
+233
+sit no : B1B2B3
+:
+Payment Details :
+Total paid 3150
+
+Passenger Details
+Name : nam
+Gender : male
+Phone : 0123
+
+Journey Details :
+dhaka to rangpur
+S.R Travels 
+Bus srart 10:30PM
+Bording point Gabtoli bus stand
+12-2-2
+sit no : B!B2
+:
+Payment Details :
+Total paid 1100
+
+Passenger Details
+Name : zam
+Gender : male
+Phone : 1235
+
+Journey Details :
+dhaka to rangpur
+S.R Travels 
+Bus srart 10:30PM
+Bording point Gabtoli bus stand
+333
+sit no : a1a2
+:
+Payment Details :
+Total paid 1100
+
+Passenger Details
+Name : qwer
+Gender : male
+Phone : 12345
+
+Journey Details :
+dhaka to rangpur
+S.R Travels 
+Bus srart 10:30PM
+Bording point Gabtoli bus stand
+1323
+sit no : B1 B2
+:
+Payment Details :
+Total paid 1100
+
+Passenger Details
+Name : akla
+Gender : male
+Phone : 2345
+
+Journey Details :
+dhaka to rangpur
+Hanif Enterprise 
+Bus srart 10:00PM
+Bording point Gabtoli bus stand
+123
+sit no : b1
+:
+Payment Details :
+Total paid 3150
+
+Passenger Details
+Name : awer
+Gender : male
+Phone : 2345
+
+Journey Details :
+dhaka to lalmoni
+Nabil Poribohon 
+Bus srart 10:30PM
+Bording point Gabtoli bus stand
+2334
+sit no : B!B2
+:
+Payment Details :
+Total paid 1100
+
+Passenger Details
+Name : Nahid
+Gender : male
+Phone : 0156
+
+Journey Details :
+dhaka to rangpur
+Nabil Poribohon 
+Bus srart 11:00PM
+Bording point Gabtoli bus stand
+34
+sit no : B1 B2
+:
+Payment Details :
+Total paid 1100
